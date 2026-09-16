@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" fill="none">
+<rect width="512" height="512" fill="#F4F1EA"/>
+<g transform="translate(57.6 57.6) scale(1.55)">
+<defs><clipPath id="winIcon"><path fill-rule="evenodd" d="M0 0 H256 V256 H0 Z M149.20 175.04 H180.00 V252.00 H149.20 Z"/></clipPath></defs>
+<polygon fill="#3D7CFF" points="130.60,175.04 198.60,175.04 164.60,236.00"/>
+<g clip-path="url(#winIcon)"><path fill="#0B1220" d="M40 212 V44 H70.8 L149.2 175.04 V44 H180 V212 H149.2 L70.8 80.96 V212 Z"/></g>
+<rect x="188" y="108" width="22" height="10" rx="5" fill="#3D7CFF"/>
+<rect x="188" y="128" width="36" height="10" rx="5" fill="#3D7CFF"/>
+<rect x="188" y="148" width="16" height="10" rx="5" fill="#3D7CFF"/>
+</g>
+</svg>
