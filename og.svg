@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" fill="none">
 <rect width="1200" height="630" fill="#0B1220"/>
-<g transform="translate(150 184) scale(0.818181818)">
+<g transform="translate(150 120) scale(0.818181818)">
 <g transform="translate(18.4 38.4) scale(0.95)">
 <defs><clipPath id="winOg"><path fill-rule="evenodd" d="M0 0 H256 V256 H0 Z M149.20 175.04 H180.00 V252.00 H149.20 Z"/></clipPath></defs>
 <polygon fill="#3D7CFF" points="130.60,175.04 198.60,175.04 164.60,236.00"/>
@@ -21,4 +21,7 @@
 <path transform="translate(478 0)" fill="#F4F1EA" fill-rule="evenodd" d="M0 100 L32 0 H50 L82 100 H62 L56 82 H26 L20 100 ZM32 64 H50 L41 36 Z"/>
 </g>
 </g>
+<text x="600" y="478" text-anchor="middle" fill="#3D7CFF" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">O cliente certo, nós te entregamos. O segredo, não!</text>
+<text x="600" y="528" text-anchor="middle" fill="#F4F1EA" font-family="Arial, Helvetica, sans-serif" font-size="24">Infoprodutos · Produtos e serviços</text>
+<text x="600" y="568" text-anchor="middle" fill="#B4BECE" font-family="Arial, Helvetica, sans-serif" font-size="20">nexoradigitalagency.com.br</text>
 </svg>

@@ -17,8 +17,8 @@ Canonical URL: https://nexoradigitalagency.com.br/ (`www` redirects to the apex)
 ## Source
 
 - Isolate path: `website/`
-- Isolate branch: `feature/ord-nda-2026-0037-agency-offer-packaging`
-- Isolate SHA: `d3e29c6c28f309895ab6f6bef6a4bdd0255f1fde`
+- Isolate branch: `feature/ord-nda-2026-0038-house-slogan-hero-slider`
+- Isolate SHA: `dbf39ce`
 - Built: 2026-09-17 (America/Sao_Paulo)
 
 ## DNS
